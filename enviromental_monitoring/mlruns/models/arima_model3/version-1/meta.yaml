@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734235527319
+current_stage: None
+description: ''
+last_updated_timestamp: 1734235527319
+name: arima_model3
+run_id: eda4b37180a745ba8154b899d17ffb41
+run_link: ''
+source: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/eda4b37180a745ba8154b899d17ffb41/artifacts/arima_model
+status: READY
+status_message: null
+storage_location: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/eda4b37180a745ba8154b899d17ffb41/artifacts/arima_model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/7cd8000c753f4e4b8a7d9015c2a8a098/artifacts
+end_time: 1734252266614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cd8000c753f4e4b8a7d9015c2a8a098
+run_name: bedecked-gnat-618
+run_uuid: 7cd8000c753f4e4b8a7d9015c2a8a098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734252261516
+status: 3
+tags: []
+user_id: osama

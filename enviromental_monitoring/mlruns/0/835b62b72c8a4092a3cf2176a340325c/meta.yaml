@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/835b62b72c8a4092a3cf2176a340325c/artifacts
+end_time: 1734255601921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 835b62b72c8a4092a3cf2176a340325c
+run_name: serious-jay-507
+run_uuid: 835b62b72c8a4092a3cf2176a340325c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734255591768
+status: 3
+tags: []
+user_id: osama

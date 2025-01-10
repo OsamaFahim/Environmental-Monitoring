@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/eda4b37180a745ba8154b899d17ffb41/artifacts
+end_time: 1734234923715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda4b37180a745ba8154b899d17ffb41
+run_name: luxuriant-hare-805
+run_uuid: eda4b37180a745ba8154b899d17ffb41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734234919025
+status: 3
+tags: []
+user_id: osama

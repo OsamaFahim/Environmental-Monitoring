@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/1398ba8a478841c78d4bc22737e78a2b/artifacts
+end_time: 1734254140334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1398ba8a478841c78d4bc22737e78a2b
+run_name: capricious-fox-373
+run_uuid: 1398ba8a478841c78d4bc22737e78a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734254135479
+status: 3
+tags: []
+user_id: osama

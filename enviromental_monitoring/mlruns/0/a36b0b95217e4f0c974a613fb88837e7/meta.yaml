@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/a36b0b95217e4f0c974a613fb88837e7/artifacts
+end_time: 1734252292623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a36b0b95217e4f0c974a613fb88837e7
+run_name: debonair-fish-209
+run_uuid: a36b0b95217e4f0c974a613fb88837e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734252288443
+status: 3
+tags: []
+user_id: osama

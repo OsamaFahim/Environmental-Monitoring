@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/ea27f3b15611404598b0e8ffbcfaec7f/artifacts
+end_time: 1734271236134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea27f3b15611404598b0e8ffbcfaec7f
+run_name: colorful-wasp-67
+run_uuid: ea27f3b15611404598b0e8ffbcfaec7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271231840
+status: 3
+tags: []
+user_id: osama

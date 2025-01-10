@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/f19d5d5fa8a94789a691d8af7d5fd579/artifacts
+end_time: 1734246484479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f19d5d5fa8a94789a691d8af7d5fd579
+run_name: hilarious-gnat-750
+run_uuid: f19d5d5fa8a94789a691d8af7d5fd579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734246478030
+status: 3
+tags: []
+user_id: osama

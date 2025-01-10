@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/6fa72efe7fc0427088d19bc98da0de84/artifacts
+end_time: 1734255431314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fa72efe7fc0427088d19bc98da0de84
+run_name: popular-gnu-457
+run_uuid: 6fa72efe7fc0427088d19bc98da0de84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734255418032
+status: 3
+tags: []
+user_id: osama

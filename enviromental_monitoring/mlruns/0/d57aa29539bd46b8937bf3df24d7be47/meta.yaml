@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/d57aa29539bd46b8937bf3df24d7be47/artifacts
+end_time: 1734255670219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d57aa29539bd46b8937bf3df24d7be47
+run_name: bald-cat-63
+run_uuid: d57aa29539bd46b8937bf3df24d7be47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734255658102
+status: 3
+tags: []
+user_id: osama

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/6e3bfa175bca4a7fa4002d858e41e973/artifacts
+end_time: 1734201550055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e3bfa175bca4a7fa4002d858e41e973
+run_name: skittish-flea-790
+run_uuid: 6e3bfa175bca4a7fa4002d858e41e973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734201538503
+status: 3
+tags: []
+user_id: osama

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/6100e083f0bd4ea6bec7738cf53e2167/artifacts
+end_time: 1734241497000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6100e083f0bd4ea6bec7738cf53e2167
+run_name: caring-grub-709
+run_uuid: 6100e083f0bd4ea6bec7738cf53e2167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734241492240
+status: 3
+tags: []
+user_id: osama

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/29fe261b94e145b5956d09ae2132a4dd/artifacts
+end_time: 1734251741053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29fe261b94e145b5956d09ae2132a4dd
+run_name: likeable-hawk-139
+run_uuid: 29fe261b94e145b5956d09ae2132a4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734251718476
+status: 3
+tags: []
+user_id: osama

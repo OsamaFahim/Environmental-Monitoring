@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Ahmad/Desktop/MLOPS/Project2/course-project-OsamaFahim654/enviromental_monitoring/mlruns/0/4afadc266acf439594b35cd90819080c/artifacts
+end_time: 1734251762658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4afadc266acf439594b35cd90819080c
+run_name: thundering-chimp-542
+run_uuid: 4afadc266acf439594b35cd90819080c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734251740655
+status: 3
+tags: []
+user_id: osama

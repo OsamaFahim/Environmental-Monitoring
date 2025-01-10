@@ -1,0 +1,17 @@
+artifact_path: arima_model
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.12
+    streamable: false
+mlflow_version: 2.19.0
+model_size_bytes: 401924
+model_uuid: 83212fa41bf34bdb8ebf709942f5f9a2
+run_id: 8249bc6fe7fb4c3c8005259bd12e4627
+utc_time_created: '2024-12-15 09:38:54.100812'
