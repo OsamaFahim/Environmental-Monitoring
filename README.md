@@ -37,11 +37,6 @@ git clone https://github.com/OsamaFahim/Environmental-Monitoring.git
 cd Environmental-Monitoring
 ```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### 3. Set Up DVC
 - Initialize the DVC repository:
   ```bash
@@ -69,7 +64,8 @@ pip install -r requirements.txt
   ```
   Add this line to fetch data every hour:
   ```bash
-  0 * * * * /usr/bin/python3 /path/to/fetch_data.py
+  0 * * * * /usr/bin/python3 /path/to/Data_collections.py
+  The above command is used to run run_all.py to run respective scripts to collect, preprocess and upload Data to DVC and also train model on it.
   ```
 
 ### 5. Run the FastAPI Server
@@ -122,15 +118,13 @@ Access the Grafana dashboard to view:
 ```
 Environmental-Monitoring/
 │
-├── data/                 # Environmental data managed by DVC
-├── scripts/              # Scripts for data fetching and preprocessing
-├── models/               # Trained models and logs (via MLflow)
-├── dashboards/           # Grafana dashboard configurations
-├── api.py                # FastAPI implementation for predictions
-├── fetch_data.py         # Script to fetch and store data
-├── train_model.py        # Script for model training
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
+├── data/                    # Environmental data managed by DVC
+├── app.py                   # FastAPI implementation for predictions
+├── Data_collections.py      # Script to fetch and store data
+├── train_model.py           # Script for model training
+├── data_preprocessing.py    # This script preprocesses the fetched data so that model can be trained on it
+├── run_all.py               # This script collects data, prproceeses it, pushes to DVC and train the model on the new data and uploads it to MLFLOW and this                                     script also runs every hour using cronjob. 
+└── README.md                # Project documentation
 ```
 
 ---
@@ -147,14 +141,3 @@ We welcome contributions! Please follow these steps:
    git commit -m "Add feature-name"
    git push origin feature-name
    ```
-4. Open a pull request.
-
----
-
-## License
-This project is licensed under the **MIT License**.
-
----
-
-## Contact
-For any questions or issues, please open an issue in the repository or contact the project maintainers.
