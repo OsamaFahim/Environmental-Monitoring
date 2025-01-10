@@ -123,7 +123,7 @@ Environmental-Monitoring/
 ├── Data_collections.py      # Script to fetch and store data
 ├── train_model.py           # Script for model training
 ├── data_preprocessing.py    # This script preprocesses the fetched data so that model can be trained on it
-├── run_all.py               # This script collects data, prproceeses it, pushes to DVC and train the model on the new data and uploads it to MLFLOW and this                                     script also runs every hour using cronjob. 
+├── run_all.py               # This script collects data, prproceeses it, pushes to DVC and train the model on the new data and uploads it to MLFLOW and script also runs every hour using cronjob. 
 └── README.md                # Project documentation
 ```
 
